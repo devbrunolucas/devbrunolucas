@@ -21,10 +21,10 @@
   
   <h1 align="center">Redes Sociais e Contato</h1>
     <p>
-      <strong>Gmail:</strong>devbrunolucas@gmail.com
+      <strong>Gmail:</strong> devbrunolucas@gmail.com
     </p>
     <p>
-      <strong>Linkedin:</strong>Bruno Lucas
+      <strong>Linkedin:</strong> Bruno Lucas
     </p>
     
 </div>
