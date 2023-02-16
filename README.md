@@ -20,12 +20,12 @@
     
   
   <h1 align="center">Redes Sociais e Contato</h1>
-    <a href = "mailto: devbrunolucas@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/bruno-lucas-b64910254/)">
-      <img width="25" src="linkedin.svg">
-    </a>
+    <p>
+      <strong>Gmail:</strong>devbrunolucas@gmail.com
+    </p>
+    <p>
+      <strong>Linkedin:</strong>Bruno Lucas
+    </p>
     
 </div>
   
