@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfil do GitHub!!
+## Seja bem vindo ao meu perfil do Github!!
 
 <div>
   
