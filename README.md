@@ -2,14 +2,14 @@
 
 <div>
   
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=devbrunolucas&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbrunolucas&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=devbrunolucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbrunolucas&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250"  alt="coding-time" src="gif11.gif">
+    <img align="left" height="250"  alt="coding-time" src="gif6.gif">
     <h1 align="center">Top Tecnologias em progresso...</h1>
    <!-- <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
     <!--<img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
