@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250"  alt="coding-time" src="gif8.gif">
+    <img align="left" height="250"  alt="coding-time" src="gif10.gif">
     <h1 align="center">Top Tecnologias em progresso...</h1>
    <!-- <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
     <!--<img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
