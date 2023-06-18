@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devbrunolucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbrunolucas&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devbrunolucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="120em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devbrunolucas&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 
